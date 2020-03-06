@@ -27,3 +27,4 @@ Option
    
 Result
 ------
+<img src="/image/3.JPG" width="80%" height="80%" title="img1" alt="img1"></img>   
